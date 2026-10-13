@@ -1,0 +1,1 @@
+ALTER TABLE public.movies ADD COLUMN IF NOT EXISTS captions_path text, ADD COLUMN IF NOT EXISTS captions_lang text;

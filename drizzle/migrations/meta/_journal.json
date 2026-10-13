@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791904506095,
+      "tag": "0000_reynashows_init",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791905022187,
+      "tag": "0001_movie_captions",
+      "breakpoints": true
+    }
+  ]
+}
